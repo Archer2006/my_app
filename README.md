@@ -1,2 +1,2 @@
 # my_app
-my desktop program
+*my desktop program*
